@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue) ![Vosk](https://img.shields.io/badge/Vosk-API-orange) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-yellowgreen)
 
-![Screenshot]()
+![Screenshot](https://github.com/Slav4ik555/Vosk-Speech-To-Text/blob/main/assets/img/screenshot.png)
 
 ## 📌 Features  
 
