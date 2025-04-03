@@ -15,8 +15,8 @@
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/vosk-stt-gui.git  
-   cd Vost-Speech-To-Text  
+   git clone https://github.com/Slav4ik555/Vosk-Speech-To-Text
+   cd Vosk-Speech-To-Text  
    ```  
 
 2. Install dependencies:  
